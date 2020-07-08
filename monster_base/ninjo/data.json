@@ -1,4 +1,4 @@
 {
-    "client":"print('status:good')",
-    "server":"print('status:good')"
+    "client": "while true do end",
+    "server": "while true do end"
 }
