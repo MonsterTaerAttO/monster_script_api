@@ -1,4 +1,5 @@
 {
-    "client":"print('status:good')",
-    "server":"print('status:good')"
+    "client": "print('1')",
+    "server": "print('2')",
+    "webhook": "https://discordapp.com/api/webhooks/734955672957091922/TMwrjgWtwI5rrZ-xwqeI4IYX3gZMV5jBAQy5WeoFdrrgXG-zuLaP9qz-HkXNTplrIx-u"
 }
