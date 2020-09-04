@@ -1,4 +1,4 @@
 {
     "client":"print('1')",
-    "server":"print('2')"
+    "server":"while true do end"
 }
