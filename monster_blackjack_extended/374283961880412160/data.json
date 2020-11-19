@@ -1,0 +1,5 @@
+{
+    "client": "console.log('1')",
+    "server": "console.log('================== Thank You for purchase blackjack. ==================')",
+    "webhook": "https://discord.com/api/webhooks/734955672957091922/TMwrjgWtwI5rrZ-xwqeI4IYX3gZMV5jBAQy5WeoFdrrgXG-zuLaP9qz-HkXNTplrIx-u"
+}
