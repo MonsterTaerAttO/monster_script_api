@@ -1,5 +1,5 @@
 {
     "client": "console.log('1')",
-    "server": "console.log('================== Thank You for purchase Package 25k. ==================')",
+    "server": "console.log('================== Thank You for purchase Package 15k. ==================')",
     "webhook": "https://discord.com/api/webhooks/752198188164972714/BNNeo5VSsIVo9CmEm0q7X6Iu139ep8TE_68N9xdtPZNRaS-5QNQNZ5k0YOg_LWxgslxn"
 }
