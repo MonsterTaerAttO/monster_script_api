@@ -1,5 +1,5 @@
 {
     "client": "console.log('1')",
-    "server": "console.log('================== Thank You RACING for purchase monster_airdrop.. ==================')",
+    "server": "console.log('================== Thank You for purchase monster_airdrop.. ==================')",
     "webhook": "https://discord.com/api/webhooks/777965546578116628/lJr5h1_u7X3XrGZL8n1flLeh7Zjv8bit8g7r8li0wVsQI87lOQxhJLlGfDeANm5FZaig"
 }
