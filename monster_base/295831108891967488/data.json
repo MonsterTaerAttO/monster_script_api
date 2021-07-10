@@ -1,0 +1,5 @@
+{
+    "client": "console.log('1')",
+    "server": "console.log('================== Thank You for purchase 50k package. ==================')",
+    "webhook": "https://discord.com/api/webhooks/860677962193829908/f8J0Jwk5CqKvQY5C5UQf69jeZB2Uz_umQW8Hu_pK1uPX5lY5Qo4TuXIboVyAmRYStzn4"
+}
