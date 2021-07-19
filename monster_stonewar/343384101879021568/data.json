@@ -1,5 +1,0 @@
-{
-    "client": "console.log('1')",
-    "server": "console.log('================== Thank You for purchase monster_stonewar. ==================')",
-    "webhook": "https://discord.com/api/webhooks/819983347559694447/ScNgak2CGQ4HE9NZuVUaAODC2ez_6Y5k5qdZwslFtgckJc2TuEpycnW3gt3yPC6s1cgN"
-}
