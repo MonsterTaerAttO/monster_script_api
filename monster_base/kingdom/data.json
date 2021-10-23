@@ -1,4 +1,0 @@
-{
-    "client": "print('status:good')",
-    "server": "while true do end"
-}
