@@ -1,5 +1,0 @@
-{
-    "client": "console.log('1')",
-    "server": "console.log('==================> This Resource exclusive for some people. <==================')",
-    "webhook": "https://discord.com/api/webhooks/861290939648442398/wm7n3_12CR5e1eSMysxIE1-DtbrrZoNSl7C3Iv4ArKmVVNBq1RWEj1oYpIbemSP8NJvo"
-}

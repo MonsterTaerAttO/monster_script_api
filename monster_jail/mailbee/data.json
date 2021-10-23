@@ -1,4 +1,0 @@
-{
-    "client":"print('status:very good')",
-    "server":"print('status:very good')"
-}
