@@ -1,5 +1,0 @@
-{
-    "client": "console.log('1')",
-    "server": "console.log('2')",
-    "webhook": "https://discordapp.com/api/webhooks/773114887450525706/OcxVFQFD5a7Ftau-IUjP7gcw5mX9tUKGXz0mRokz5VJXQaDsUWvKl2w4ZFLRsrGtFhEo"
-}

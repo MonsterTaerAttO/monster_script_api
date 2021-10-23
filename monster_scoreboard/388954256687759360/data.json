@@ -1,5 +1,0 @@
-{
-    "client": "console.log('1')",
-    "server": "console.log('================== Thank You for purchase monster_scoreboard. ==================')",
-    "webhook": "https://discord.com/api/webhooks/861296174370521128/FUvYhSncrMoPNqBpmwn2dtTbzUPom9VJoMthusmIlRE5qYnsNbqjtarz2kC3Pim2AuHb"
-}
